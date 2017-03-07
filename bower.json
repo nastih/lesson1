@@ -1,0 +1,25 @@
+{
+  "name": "project1",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Anastasia"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "3.0.0",
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "jquery": "1.6.0",
+    "animate.css": "^3.5.2"
+  }
+}
